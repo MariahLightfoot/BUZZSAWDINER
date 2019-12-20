@@ -3,27 +3,38 @@
     width: 100vw;
     position: relative;
     margin-left: -50vw;
-    height: 500px;
+    height: 600px;
     margin-top: 100px;
     left: 50%;
 }
 
 .wrapper{
     padding: 100px;
-    display: grid;
-    grid-template-columns: auto 24% auto 74% auto;
-
+    text-align: center;
+    display: flex;
 }
-
-/* .coloredDiv{
-    display: grid;
-    grid-template-columns: 24% auto 74%;
-    background-color: rgba(140, 188, 162, .5);
-} */
 
 img{
     object-fit: cover;
     object-position: bottom left;
     height: 400px;
-    width: 400px;
+    width: 450px;
 }
+
+h2{
+    font-size: 45px;
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    color: #252424;
+    font-weight: 400;
+
+}
+
+p{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #252424;
+}
+
