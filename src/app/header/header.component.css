@@ -1,0 +1,25 @@
+ html, body{
+    height: 100%; 
+    width: 100%;
+}
+
+header {
+    background-image: url("/assets/img/BBQ-BOSS-Wood-Background-1600.jpg");
+    height: 90%; 
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#buzzsawDinerLogo{
+    position: relative;
+    text-align: center;
+    padding-top: 205px;
+
+
+} 
