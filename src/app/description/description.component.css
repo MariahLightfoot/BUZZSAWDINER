@@ -3,22 +3,13 @@
     text-align: center;  
 }
 
-#italianInspired {
+#realFood {
     font-size: 50px;
     font-family: 'Roboto', sans-serif;
     margin:0;
     color: #252424;
     font-weight: 400;
 }
-
-/* #doneRight{
-    font-family: 'Roboto', sans-serif;
-    font-size: 45px;
-    margin: 0;
-    color: #252424;
-    font-weight: 400;
-
-} */
 
 .descriptionBody{
     text-align: center;
