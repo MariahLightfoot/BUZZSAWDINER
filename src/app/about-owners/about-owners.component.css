@@ -1,5 +1,5 @@
 .middle{
-    /* background-image: url("/assets/img/240_F_285857211_1KGddJqMdKSXpMTNb2jwWCI9aPaqwMtn (1).jpg");
+    background-image: url("/assets/img/woodbackground.jpg");
     height: 90%; 
     width: 100%;
     position: absolute;
@@ -7,7 +7,7 @@
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     padding-bottom: 100px;
 }
 

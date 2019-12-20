@@ -14,17 +14,34 @@
     text-align: center;
 }
 
-
 .buttons{
     float: left;
+    padding: 25px;
+}
+
+#button1, #button2, #button3{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: #e6e6e6;
+    border: none;
+}
+
+#button1:hover, #button2:hover, #button3:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+#button1.focus, #button1:focus, #button2.focus, #button2:focus, #button3.focus, #button3:focus {
+    outline: 0;
+    box-shadow: none!important;
 }
 
 .socialMediaLogos{
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-right: 100px;
+
     float: right;
     font-size: 22px;
+    position: bottom right;
 }
 
 
